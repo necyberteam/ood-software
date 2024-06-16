@@ -1,0 +1,9 @@
+software:
+  path: '/software'
+  defaults:
+    _controller: '\Drupal\ood\Controller\softwareController::software'
+    _title: ''
+  requirements:
+    _permission: 'access content'
+  options:
+    no_cache: 'TRUE'

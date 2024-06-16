@@ -1,0 +1,5 @@
+name: Open On Demand
+description: "Misc functionality for Open On Demand."
+type: module
+core_version_requirement: ^9 || ^10 || ^11
+package: Custom

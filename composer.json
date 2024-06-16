@@ -1,0 +1,16 @@
+{
+    "name": "custom/ood",
+    "description": "Open On Demand software",
+    "type": "drupal-custom-module",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Miles France",
+            "email": "Miles.France@protitude.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/necyberteam/ood-software/issues",
+        "source": "https://github.com/necyberteam/ood-software"
+    }
+}
